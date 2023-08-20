@@ -11,7 +11,7 @@ Raspberry Pi is a small, affordable, single-board computer that's often used for
 
 
 ## output
-![output](flowchart1.gif)
+![output](Kubernetes_cluster.jpeg)
 
 
 ## Contributing
